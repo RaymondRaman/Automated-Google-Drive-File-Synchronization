@@ -36,14 +36,14 @@ Set the permissions to Editor.
 ```
 git clone https://github.com/RaymondRaman/Automated-Google-Drive-File-Synchronization
 ```
-### Step 6: Navigate into the project directory and install required libraries
+#### Step 6: Navigate into the project directory and install required libraries
 ```
 Open terminal and run follow command
 cd Automated-Google-Drive-File-Synchronization
 pip install -r requirements.txt
 ```
-### Step 7: Drag and drop your Credentials file into the project directory.
-### Step 8: Modify config.json
+#### Step 7: Drag and drop your Credentials file into the project directory.
+#### Step 8: Modify config.json
 ```json
 {
     "Google_credentials_paths": "/path/to/your/Credentials.json",
@@ -68,11 +68,11 @@ pip install -r requirements.txt
     }
 }
 ```
-### Step 9: Run the script using
+#### Step 9: Run the script using
 ```
 python script.py
 ```
-### (OPTIONAL) Step 10: Handle Upload Failures
+#### (OPTIONAL) Step 10: Handle Upload Failures
 After running the script, monitor the terminal output for any messages indicating which files were successfully uploaded. This will help you identify any files that may have encountered issues during the upload process.
 ```
 Modify ConfigurationUpdate:
