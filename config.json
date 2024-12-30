@@ -1,0 +1,22 @@
+{
+    "Google_credentials_paths": "/Users/raymondli/Desktop/Automated-Google-Drive-File-Synchronization/credit.json",
+    "Target_folder_Path": "/Users/raymondli/Desktop/FTEC4005_group_11_project_1",
+    "ignore_files": [
+        ".DS_Store",
+        ".gitignore",
+        "node_modules",
+        ".git",
+        "lib",
+        "__pycache__",
+        ".ipynb_checkpoints",
+        "bin",
+        "pip3.12",
+        "python",
+        "pip3",
+        "nbconfig"
+    ],
+    "upload_failed": {
+        "status": "False",
+        "start_process_doc": "extension.js"
+    }
+}
