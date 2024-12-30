@@ -7,7 +7,7 @@ Manually comparing local files with those in Google Drive is not only tedious bu
 
 
 ### Prerequisite
-Installed python 3.x and git
+Installed python 3.x, git, pip
 
 ### Guideline
 #### Step 1: Create a Google Cloud Project with Google Drive API Enabled
