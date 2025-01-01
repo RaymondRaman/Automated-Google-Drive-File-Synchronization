@@ -27,7 +27,6 @@ Save the JSON file to the project directory as credit.json
 ```
 Click on Create Credentials and select OAuth client ID.
 Follow the guide to create OAuth client ID Credentials, choose an application type as Web Application.
-Click DOWNLOAD JSON.
 ```
 #### Step 4: Share the Google Drive Folder with Your Service Account
 ```
