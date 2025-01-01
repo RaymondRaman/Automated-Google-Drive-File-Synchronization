@@ -16,11 +16,12 @@ Go to the Google Cloud Console.
 Create a new project. 
 Search for "Google Drive API" and enable it for your project
 ```
-#### Step 2: Create Service Account
+#### Step 2: Create Service Account and Download JSON Credentials
 ```
 In the same project, go to Enabled APIs & services > Credentials.
 Follow the guide to create a service account, add role as Owner and fill in target account in Grant users access section.
-```
+Then, go to Service Accounts > KEYS and create a new key in JSON format. 
+Save the JSON file to the project directory as credit.json
 #### Step 3: Create Create OAuth client ID Credentials with JSON format
 ```
 Click on Create Credentials and select OAuth client ID.
